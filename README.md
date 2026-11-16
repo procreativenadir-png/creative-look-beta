@@ -6,12 +6,26 @@ la page Color.
 
 > **Bêta privée.** Merci de ne partager ni l'archive ni des captures du panneau en dehors du groupe de test.
 
-## Ce qu'il te faut
+## En bref
 
-- Windows 10 ou 11.
-- DaVinci Resolve **Studio**. Les Workflow Integrations n'existent pas dans la version gratuite. Le panneau est
-  testé sur Resolve Studio 21.0.
-- Une power grade dont les nodes portent les noms attendus (voir plus bas).
+- **Il te faut** : Windows 10 ou 11 et DaVinci Resolve **Studio**, testé sur la 21.0. La version gratuite n'a pas
+  les Workflow Integrations.
+- **À télécharger** : uniquement `CreativeLook-…-beta.zip`, dans **Releases** (colonne de droite).
+- **À ignorer** : « Source code (zip) » et « Source code (tar.gz) ». GitHub les ajoute tout seul sous chaque
+  version ; ils ne contiennent que cette page, pas le plugin.
+- **À fournir toi-même** : ta power grade. Aucune n'est livrée (voir « Ta power grade » plus bas).
+- **Rien d'autre à installer** : ni Python ni autre logiciel. Creative Sound est un plugin à part : installe-le
+  seulement si tu veux aussi ranger tes sons.
+
+### Dans l'archive
+
+| Fichier | À faire |
+|---|---|
+| `Installer Creative Look.bat` | **le seul à double-cliquer**, pour installer comme pour mettre à jour |
+| dossier `Creative Look` | n'y touche pas : l'installeur le copie au bon endroit |
+| `AJOUTER TA POWER GRADE.txt` | où déposer ta power grade et comment le panneau la choisit |
+| `LISEZ-MOI.txt` | le mode d'emploi en version courte |
+| `Désinstaller Creative Look.bat` | seulement pour retirer le panneau |
 
 ## Installer ou mettre à jour
 
