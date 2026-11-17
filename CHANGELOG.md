@@ -1,7 +1,10 @@
 # Versions
 
-## 0.9.6 bêta — 15 novembre 2026
+## 0.9.6 bêta — 15 novembre 2026 (archive mise à jour le 17 novembre)
 
+- **Corrigé (17/11)** : sur un PC dont Windows protège Documents et le Bureau (Accès contrôlé aux dossiers), le
+  panneau pouvait geler en préparant un rapport, en exportant une LUT ou une planche. Il enregistre désormais dans son
+  propre dossier quand Windows refuse, et l'Explorateur montre le fichier.
 - **Vignettes Néon et Collection** : chaque look a désormais sa propre image, tirée des tournages de Creative Nadir
   (interviews, concerts, esport, voyage, studio), au lieu d'une image commune à tous.
 ## 0.9.5 bêta — 15 novembre 2026

@@ -98,7 +98,8 @@ Ouvre l'onglet **Issues**, clique sur **New issue**, puis choisis **Un problème
 Pour un problème, joins le rapport de support :
 
 1. Dans le panneau, choisis « … » > **Préparer un rapport pour le support**.
-2. Un fichier texte apparaît sur ton Bureau.
+2. L'Explorateur s'ouvre sur un fichier texte : sur ton Bureau, ou dans le dossier de Creative Look si Windows
+   protège le Bureau.
 3. Glisse-le dans l'issue.
 
 Le rapport contient :
