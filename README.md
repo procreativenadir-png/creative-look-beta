@@ -1,10 +1,10 @@
-# Creative Look — bêta privée
+# Creative Look — bêta
 
 Creative Look est un panneau de looks cinéma pour DaVinci Resolve Studio sur Windows. En un double-clic, il pose
 un look inspiré d'un film sur ta power grade. Tu règles ensuite l'intensité, l'expo et le contraste sans quitter
 la page Color.
 
-> **Bêta privée.** Merci de ne partager ni l'archive ni des captures du panneau en dehors du groupe de test.
+> **Bêta.** Le panneau est encore en test : tes retours (onglet Issues) le font avancer.
 
 ## En bref
 
